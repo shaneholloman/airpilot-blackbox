@@ -1,6 +1,6 @@
 # AirPilot Blackbox
 
-Analyse AirPilot usage - analyze your Claude AI usage logs and calculate costs from `~/.claude` or Docker containers.
+Analyze your Claude AI usage logs and calculate costs from `~/.claude` or Docker containers.
 
 ## Quick Start
 
